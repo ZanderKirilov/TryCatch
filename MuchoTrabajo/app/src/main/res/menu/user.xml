@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_item"
+        android:orderInCategory="102"
+        android:title="Items"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_launcher_web">
+        <menu>
+            <item
+                android:id="@+id/action_items_for_sell"
+                android:orderInCategory="102"
+                android:title="@string/add_item_for_sell"
+                android:icon="@mipmap/ic_items" />
+
+            <item
+                android:id="@+id/action_profile"
+                android:orderInCategory="103"
+                android:title="@string/edit_profile"
+                android:icon="@mipmap/ic_profile" />
+            <item
+                android:id="@+id/action_search"
+                android:orderInCategory="104"
+                android:title="@string/search"
+                android:icon="@mipmap/ic_search"
+                app:actionViewClass="android.support.v7.widget.SearchView"/>
+            <item
+                android:id="@+id/action_logout"
+                android:orderInCategory="105"
+                android:title="@string/logout"
+                android:icon="@mipmap/ic_logout"/>
+        </menu>
+    </item>
+</menu>

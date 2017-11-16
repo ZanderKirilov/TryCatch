@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/category_home"
+            android:icon="@mipmap/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/category_advert"
+            android:icon="@mipmap/ic_advert"
+            android:title="@string/advertising" />
+        <item
+            android:id="@+id/category_archit"
+            android:icon="@mipmap/ic_archit"
+            android:title="@string/architecture"/>
+        <item
+            android:id="@+id/category_art"
+            android:icon="@mipmap/ic_art"
+            android:title="@string/art"/>
+        <item
+            android:id="@+id/category_design"
+            android:icon="@mipmap/ic_design"
+            android:title="@string/design" />
+        <item
+            android:id="@+id/category_aviation"
+            android:icon="@mipmap/ic_aviation"
+            android:title="@string/aviation" />
+        <item
+            android:id="@+id/category_bank"
+            android:icon="@mipmap/ic_banking"
+            android:title="@string/banking" />
+        <item
+            android:id="@+id/category_hosp"
+            android:icon="@mipmap/ic_hospitality"
+            android:title="@string/hospitality" />
+        <item
+            android:id="@+id/category_hr"
+            android:icon="@mipmap/ic_hr"
+            android:title="@string/human_resources" />
+        <item
+            android:id="@+id/category_it"
+            android:icon="@mipmap/ic_it"
+            android:title="@string/it" />
+        <item
+            android:id="@+id/category_mark"
+            android:icon="@mipmap/ic_marketing"
+            android:title="@string/marketing" />
+        <item
+            android:id="@+id/category_pr"
+            android:icon="@mipmap/ic_pr"
+            android:title="@string/pr" />
+        <item
+            android:id="@+id/category_security"
+            android:icon="@mipmap/ic_security"
+            android:title="@string/security" />
+        <item
+            android:id="@+id/category_sport"
+            android:icon="@mipmap/ic_sport"
+            android:title="@string/sport" />
+        <item
+            android:id="@+id/category_trans_logist"
+            android:icon="@mipmap/ic_transport"
+            android:title="@string/transport_and_logistic" />
+
+</menu>

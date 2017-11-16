@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">TryCatch</string>
+    <string name="alertExit">Are you sure you want to exit?</string>
+    <string name="exitYes">YES</string>
+    <string name="exitNo">NO</string>
+    <string name="alertExitQuest">Leaving so soon?</string>
+    <string name="alertLogoutQuest">Logging out?</string>
+    <string name="alertLogout">Are you sure you want to logout?</string>
+    <string name="logoutYes">YES</string>
+    <string name="logoutNo">NO</string>
+    <string-array name="itemTypes">
+        <item>Advertising</item>
+        <item>Architecture</item>
+        <item>Art</item>
+        <item>Aviation</item>
+        <item>Banking</item>
+        <item>Design</item>
+        <item>Hospitality</item>
+        <item>Human resources</item>
+        <item>IT</item>
+        <item>Marketing</item>
+        <item>PR</item>
+        <item>Security</item>
+        <item>Sport</item>
+        <item>Transport and Logistic</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="welcome_items">No items for sale.</string>
+    <string name="welcome_no_items">No items.</string>
+    <string name="enable_to_open_image">Unable to open image...</string>
+    <string name="welcome_message">Welcome,</string>
+    <string name="ad_uploaded">Your ad has been uploaded.</string>
+    <string name="profile">Profile</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="change_your_name">Change your name</string>
+    <string name="enter_your_new_password">Enter your new password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="add_cv">Add CV</string>
+    <string name="update">Update</string>
+    <string name="upload">Upload</string>
+    <string name="category">Category</string>
+    <string name="company_name">Company name</string>
+    <string name="salary">Salary</string>
+    <string name="location">Location</string>
+    <string name="your_ad_description">Your AD description</string>
+    <string name="your_ad_title">Your Ad title</string>
+    <string name="upload_your_ad">Upload your Ad</string>
+    <string name="image_changed">Image changed!</string>
+    <string name="unable_to_open">Unable to open image.</string>
+    <string name="wrong_cropping">Somethings wrong with cropping.</string>
+    <string name="pass_dont_match">Pass don\'t match</string>
+    <string name="pass_has_to_be">Password has to be at least 6 characters, contains a digit and an upper letter!</string>
+    <string name="enter_name">Please enter your name!</string>
+    <string name="invalid_email">Email address is invalid!</string>
+    <string name="email_registered">This e-mail is registered! Enter Another e-mail!</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="registration_success">Registration success!</string>
+    <string name="invalid_fields">Invalid Data Fields!</string>
+    <string name="fatal_error">Fatal error!</string>
+    <string name="you_logged_as">You entered as</string>
+    <string name="wrong_email_pass">Wrong e-mail or password!</string>
+    <string name="min_length_title">Invalid field! Please enter your title, min 3 chars.</string>
+    <string name="max_length">Invalid field! Max length 800 characters.</string>
+    <string name="min_length_location">Invalid field! Please add location, min 4 chars.</string>
+    <string name="min_length_company">Invalid field! Please add company name, min 4 chars.</string>
+    <string name="digits_only">Invalid field! Only digits.</string>
+    <string name="title_row">Title</string>
+    <string name="description_row">Description</string>
+    <string name="location_row">Location</string>
+    <string name="company_row">Company</string>
+    <string name="view_position">View position</string>
+    <string name="title_popup">Title</string>
+    <string name="description_popup">Description</string>
+    <string name="location_popup">Location</string>
+    <string name="company_popup">Company</string>
+    <string name="cancel">Cancel</string>
+    <string name="advertising">Advertising</string>
+    <string name="architecture">Architecture</string>
+    <string name="art">Art</string>
+    <string name="aviation">Aviation</string>
+    <string name="banking">Banking</string>
+    <string name="design">Design</string>
+    <string name="hospitality">Hospitality</string>
+    <string name="human_resources">Human resources</string>
+    <string name="it">IT</string>
+    <string name="marketing">Marketing</string>
+    <string name="pr">PR</string>
+    <string name="security">Security</string>
+    <string name="sport">Sport</string>
+    <string name="transport_and_logistic">Transport and Logistic</string>
+    <string name="add_item_for_sell">Add item for sell</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="exit">Exit</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email_com">user@email.com</string>
+    <string name="home">Home</string>
+    <string name="no_items">No items in category</string>
+    <string name="apply_for_position">Apply for position</string>
+</resources>
